@@ -1,4 +1,4 @@
-# Project Title
+# Project Name
 
 Image Recognition System using Machine Learning
 
