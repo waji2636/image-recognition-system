@@ -1,4 +1,5 @@
-##Image Recognition System using Machine Learning
+# Project
+Image Recognition System using Machine Learning
 
 ## Summary
 
