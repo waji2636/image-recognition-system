@@ -1,9 +1,0 @@
-##Summary
-Image recognition system using AI.
-Image Recognition System is a deep learning project that uses convolutional neural networks to classify images. This system can be used to identify objects, animals, and people in images. This project was developed as part of the Building AI course.
-
-Project Description
-The Image Recognition System is a deep learning project that aims to classify images using convolutional neural networks. The system uses a pre-trained model to identify objects, animals, and people in images. The model was trained on a large dataset of images and has achieved high accuracy in classification tasks. The project is written in Python and uses popular deep learning frameworks such as TensorFlow and Keras. The system has been tested on a variety of images and has shown promising results.
-
-Tags
-AI, Deep Learning, Image Classification, TensorFlow, Keras, Convolutional Neural Networks, Python.
