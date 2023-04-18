@@ -1,6 +1,4 @@
-# Project Name
-
-Image Recognition System using Machine Learning
+**##Image Recognition System using Machine Learning**
 
 ## Summary
 
